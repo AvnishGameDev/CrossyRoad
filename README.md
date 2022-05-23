@@ -1,6 +1,6 @@
 # CrossyRoad
 
-I made this game but i had to leave it unfinished. I am putting this out to anyone who wants
+I made this game but I had to leave it unfinished. I am putting this out to anyone who wants
 to build on this and complete the project. Feel free to use this however you want.
 
 Developed with Unreal Engine 4
